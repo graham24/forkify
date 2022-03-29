@@ -1,0 +1,11 @@
+# Simple inprovements
+Display number of pages between the pagination buttons
+Ability to sort the search results by duration or by number of ingredients
+Perform validation of ingredient in the view before submitting the form.
+Improve the input of ingrdients, seperate fields for ingrdient quantity and measurment
+allow for more than 6 ingredients.
+
+# Advanced Improvements
+Shopping list feature, add all ingredients to list
+Weekly meal planing feature, assing recipes to hte next 7 days, show on a weekly calendar.
+Get nutrition data on each ingredient from spoonacular API (https://spoonacular.com/food-api)
